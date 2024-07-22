@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, my name is Janista 🌸 </h2>
-<h4 align="center"> My name is Janista and I recently graduated with a B.S. in Computer Sciene at Cal Poly Pomona! I am interested in software engineering, particularly in the game development or animation industries. </h4>
+<h4 align="center"> My name is Janista and I recently graduated with a B.S. in Computer Sciene at Cal Poly Pomona! I am interested in software engineering and game development. I am currently on the Thirteenth Month team working on the demo for our first game project! </h4>
 <p> </p>
 
 #### Skills 
